@@ -1,0 +1,6 @@
+[package]
+name = "Apartment14W"
+version = "0.1.0"
+authors = ["Teodoro Fields Collin <teocollin1995@gmail.com>"]
+
+[dependencies]
